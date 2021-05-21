@@ -1,0 +1,17 @@
+﻿.body {
+    font-family:Prompt;
+    font-size:16px;
+    color:blue;
+}
+.lbl {
+    font-family: Prompt;
+    font-size: 16px;
+    color: mediumvioletred;
+    background-color:black;
+}
+.txt {
+    font-family: Prompt;
+    font-size: 16px;
+    color: rosybrown;
+    background-color: yellow;
+}
